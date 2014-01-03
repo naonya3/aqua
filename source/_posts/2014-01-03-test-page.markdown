@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test page"
+date: 2014-01-03 12:50:27 +0900
+comments: true
+categories: photo
+---
+
+<a href="http://www.flickr.com/photos/naonya3/9531761796/" title="2013-08-08_18-43-44_NEX-6 by Naoto Horiguchi, on Flickr"><img src="http://farm8.staticflickr.com/7364/9531761796_bae23c5082.jpg" width="500" height="332" alt="2013-08-08_18-43-44_NEX-6"></a>
