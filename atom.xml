@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://naonya3.github.io/aqua/atom.xml" rel="self"/>
-  <link href="http://naonya3.github.io/aqua/"/>
-  <updated>2014-01-03T12:51:04+09:00</updated>
-  <id>http://naonya3.github.io/aqua/</id>
+  <title><![CDATA[aqua.naonya3.me]]></title>
+  <link href="http://aqua.naonya3.me/atom.xml" rel="self"/>
+  <link href="http://aqua.naonya3.me/"/>
+  <updated>2014-01-03T13:01:58+09:00</updated>
+  <id>http://aqua.naonya3.me/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[naonya3]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Page]]></title>
-    <link href="http://naonya3.github.io/aqua/blog/2014/01/03/test-page/"/>
+    <link href="http://aqua.naonya3.me/blog/2014/01/03/test-page/"/>
     <updated>2014-01-03T12:50:27+09:00</updated>
-    <id>http://naonya3.github.io/aqua/blog/2014/01/03/test-page</id>
+    <id>http://aqua.naonya3.me/blog/2014/01/03/test-page</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

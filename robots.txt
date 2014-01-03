@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://naonya3.github.io/aqua/sitemap.xml 
+Sitemap: http://aqua.naonya3.me/sitemap.xml 
